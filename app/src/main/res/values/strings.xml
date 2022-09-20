@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="base">Bill Amount</string>
+    <string name="tipAmount">0.0</string>
+    <string name="tvTotalAmount">0.0</string>
+    <string name="totalAmount">Total</string>
+    <string name="tipLabel">Tip</string>
+    <string name="tipPercentage">15%</string>
+    <string name="made_with_by_uvesh">MADE BY MUHAMMAD UVESH</string>
+    <string name="split_bill">Split Bill</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="split_bill_by">Split bill by</string>
+    <string name="pePerson">Per Person Amount</string>
+    <string name="_00_00">00.00</string>
+</resources>
